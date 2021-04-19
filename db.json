@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Don Bradman"
+    },
+    {
+      "id": 2,
+      "name": "Sachin Tendulkar"
+    },
+    {
+      "name": "kapil",
+      "id": 3
+    },
+    {
+      "name": "kapil soni",
+      "id": 4
+    },
+    {
+      "name": "kapil soni",
+      "id": 5
+    },
+    {
+      "name": "kapil soni",
+      "id": 6
+    },
+    {
+      "name": "kapil soni",
+      "id": 7
+    }
+  ]
+}
